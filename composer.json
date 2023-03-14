@@ -1,5 +1,5 @@
 {
-    "name": "muse/yii2-rector-rules",
+    "name": "mu-se/yii2-rector-rules",
     "description": "Collection of rector rules",
     "type": "library",
     "minimum-stability": "dev",
